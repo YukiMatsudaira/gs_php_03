@@ -45,7 +45,8 @@
 
 ・edit_user.php=編集画面.  
 <img src="https://user-images.githubusercontent.com/70464329/124280642-e428a600-db83-11eb-9ae3-960542d41767.png" width="20%">.  
-仕様は新規登録画面と同じ.  
+ログイン中のユーザーのDB情報を表示.  
+内容を書き換えて「登録」するとDB情報更新される.  
 
 
 
